@@ -1,0 +1,468 @@
+{
+    "full": {
+        "gemini-3.1-flash-image-preview (nano-banana-2) [web-search]": {
+            "rating": 1280.0,
+            "rating_q975": 1292.0,
+            "rating_q025": 1268.0
+        },
+        "gpt-image-1.5-high-fidelity": {
+            "rating": 1248.0,
+            "rating_q975": 1253.0,
+            "rating_q025": 1243.0
+        },
+        "gemini-3-pro-image-preview-2k (nano-banana-pro)": {
+            "rating": 1238.0,
+            "rating_q975": 1243.0,
+            "rating_q025": 1233.0
+        },
+        "gemini-3-pro-image-preview (nano-banana-pro)": {
+            "rating": 1233.0,
+            "rating_q975": 1238.0,
+            "rating_q025": 1228.0
+        },
+        "reve-v1.5": {
+            "rating": 1178.0,
+            "rating_q975": 1184.0,
+            "rating_q025": 1172.0
+        },
+        "grok-imagine-image": {
+            "rating": 1176.0,
+            "rating_q975": 1181.0,
+            "rating_q025": 1171.0
+        },
+        "flux-2-max": {
+            "rating": 1168.0,
+            "rating_q975": 1172.0,
+            "rating_q025": 1164.0
+        },
+        "grok-imagine-image-pro": {
+            "rating": 1163.0,
+            "rating_q975": 1168.0,
+            "rating_q025": 1158.0
+        },
+        "flux-2-flex": {
+            "rating": 1158.0,
+            "rating_q975": 1162.0,
+            "rating_q025": 1154.0
+        },
+        "flux-2-pro": {
+            "rating": 1156.0,
+            "rating_q975": 1160.0,
+            "rating_q025": 1152.0
+        },
+        "gemini-2.5-flash-image-preview (nano-banana)": {
+            "rating": 1156.0,
+            "rating_q975": 1159.0,
+            "rating_q025": 1153.0
+        },
+        "hunyuan-image-3.0": {
+            "rating": 1152.0,
+            "rating_q975": 1155.0,
+            "rating_q025": 1149.0
+        },
+        "flux-2-dev": {
+            "rating": 1152.0,
+            "rating_q975": 1157.0,
+            "rating_q025": 1147.0
+        },
+        "imagen-ultra-4.0-generate-001": {
+            "rating": 1149.0,
+            "rating_q975": 1153.0,
+            "rating_q025": 1145.0
+        },
+        "seedream-4.5": {
+            "rating": 1145.0,
+            "rating_q975": 1149.0,
+            "rating_q025": 1141.0
+        },
+        "seedream-4-2k": {
+            "rating": 1141.0,
+            "rating_q975": 1147.0,
+            "rating_q025": 1135.0
+        },
+        "qwen-image-2512": {
+            "rating": 1139.0,
+            "rating_q975": 1143.0,
+            "rating_q025": 1135.0
+        },
+        "imagen-4.0-generate-001": {
+            "rating": 1133.0,
+            "rating_q975": 1136.0,
+            "rating_q025": 1130.0
+        },
+        "wan2.6-t2i": {
+            "rating": 1133.0,
+            "rating_q975": 1138.0,
+            "rating_q025": 1128.0
+        },
+        "seedream-4-fal": {
+            "rating": 1118.0,
+            "rating_q975": 1124.0,
+            "rating_q025": 1112.0
+        },
+        "wan2.5-t2i-preview": {
+            "rating": 1118.0,
+            "rating_q975": 1122.0,
+            "rating_q025": 1114.0
+        },
+        "gpt-image-1": {
+            "rating": 1115.0,
+            "rating_q975": 1118.0,
+            "rating_q025": 1112.0
+        },
+        "seedream-4-high-res-fal": {
+            "rating": 1114.0,
+            "rating_q975": 1118.0,
+            "rating_q025": 1110.0
+        },
+        "seedream-5.0-lite": {
+            "rating": 1106.0,
+            "rating_q975": 1113.0,
+            "rating_q025": 1099.0
+        },
+        "gpt-image-1-mini": {
+            "rating": 1101.0,
+            "rating_q975": 1105.0,
+            "rating_q025": 1097.0
+        },
+        "recraft-v4": {
+            "rating": 1098.0,
+            "rating_q975": 1105.0,
+            "rating_q025": 1091.0
+        },
+        "mai-image-1": {
+            "rating": 1094.0,
+            "rating_q975": 1098.0,
+            "rating_q025": 1090.0
+        },
+        "seedream-3": {
+            "rating": 1084.0,
+            "rating_q975": 1089.0,
+            "rating_q025": 1079.0
+        },
+        "z-image-turbo": {
+            "rating": 1080.0,
+            "rating_q975": 1087.0,
+            "rating_q025": 1073.0
+        },
+        "flux-1-kontext-max": {
+            "rating": 1076.0,
+            "rating_q975": 1079.0,
+            "rating_q025": 1073.0
+        },
+        "flux-2-klein-9b": {
+            "rating": 1066.0,
+            "rating_q975": 1070.0,
+            "rating_q025": 1062.0
+        },
+        "qwen-image-prompt-extend": {
+            "rating": 1061.0,
+            "rating_q975": 1064.0,
+            "rating_q025": 1058.0
+        },
+        "flux-1-kontext-pro": {
+            "rating": 1060.0,
+            "rating_q975": 1063.0,
+            "rating_q025": 1057.0
+        },
+        "imagen-3.0-generate-002": {
+            "rating": 1059.0,
+            "rating_q975": 1062.0,
+            "rating_q025": 1056.0
+        },
+        "qwen-image": {
+            "rating": 1058.0,
+            "rating_q975": 1060.0,
+            "rating_q025": 1056.0
+        },
+        "ideogram-v3-quality": {
+            "rating": 1050.0,
+            "rating_q975": 1054.0,
+            "rating_q025": 1046.0
+        },
+        "p-image": {
+            "rating": 1046.0,
+            "rating_q975": 1051.0,
+            "rating_q025": 1041.0
+        },
+        "photon": {
+            "rating": 1037.0,
+            "rating_q975": 1041.0,
+            "rating_q025": 1033.0
+        },
+        "recraft-v3": {
+            "rating": 1021.0,
+            "rating_q975": 1024.0,
+            "rating_q025": 1018.0
+        },
+        "flux-2-klein-4b": {
+            "rating": 1020.0,
+            "rating_q975": 1024.0,
+            "rating_q025": 1016.0
+        },
+        "flux-1.1-pro": {
+            "rating": 1017.0,
+            "rating_q975": 1020.0,
+            "rating_q025": 1014.0
+        },
+        "lucid-origin": {
+            "rating": 1015.0,
+            "rating_q975": 1018.0,
+            "rating_q025": 1012.0
+        },
+        "ideogram-v2": {
+            "rating": 1015.0,
+            "rating_q975": 1018.0,
+            "rating_q025": 1012.0
+        },
+        "glm-image": {
+            "rating": 1012.0,
+            "rating_q975": 1021.0,
+            "rating_q025": 1003.0
+        },
+        "gemini-2.0-flash-preview-image-generation": {
+            "rating": 976.0,
+            "rating_q975": 979.0,
+            "rating_q025": 973.0
+        },
+        "flux-1-dev-fp8": {
+            "rating": 970.0,
+            "rating_q975": 974.0,
+            "rating_q025": 966.0
+        },
+        "dall-e-3": {
+            "rating": 969.0,
+            "rating_q975": 973.0,
+            "rating_q025": 965.0
+        },
+        "flux-1-kontext-dev": {
+            "rating": 942.0,
+            "rating_q975": 946.0,
+            "rating_q025": 938.0
+        },
+        "stable-diffusion-v35-large": {
+            "rating": 939.0,
+            "rating_q975": 943.0,
+            "rating_q025": 935.0
+        },
+        "bagel": {
+            "rating": 899.0,
+            "rating_q975": 905.0,
+            "rating_q025": 893.0
+        }
+    },
+    "is_preset_generation": {
+        "imagen-3.0-generate-002": {
+            "rating": 1078.0454542861132,
+            "rating_q975": 1082.3555429959563,
+            "rating_q025": 1073.7353655762702
+        },
+        "flux-1.1-pro": {
+            "rating": 1066.8142996019974,
+            "rating_q975": 1071.8910616281578,
+            "rating_q025": 1061.737537575837
+        },
+        "recraft-v3": {
+            "rating": 1051.314146773489,
+            "rating_q975": 1056.3798751121183,
+            "rating_q025": 1046.2484184348598
+        },
+        "ideogram-v2": {
+            "rating": 1007.8867950880525,
+            "rating_q975": 1012.9166666125062,
+            "rating_q025": 1002.8569235635988
+        },
+        "photon": {
+            "rating": 1006.8784648694535,
+            "rating_q975": 1014.1604161824126,
+            "rating_q025": 999.5965135564944
+        },
+        "flux-1-dev-fp8": {
+            "rating": 1006.5329568791619,
+            "rating_q975": 1011.9156249409286,
+            "rating_q025": 1001.1502888173952
+        },
+        "stable-diffusion-v35-large": {
+            "rating": 1006.3218160428078,
+            "rating_q975": 1013.8844684746543,
+            "rating_q025": 998.7591636109612
+        },
+        "dall-e-3": {
+            "rating": 978.0,
+            "rating_q975": 983.1471260087494,
+            "rating_q025": 972.8528739912506
+        }
+    },
+    "not_preset_generation": {
+        "gemini-3-pro-image-preview-2k (nano-banana-pro)": {
+            "rating": 1234.0883994495198,
+            "rating_q975": 1241.7026768316964,
+            "rating_q025": 1226.4741220673432
+        },
+        "gemini-3-pro-image-preview (nano-banana-pro)": {
+            "rating": 1232.3998182445039,
+            "rating_q975": 1237.8751326250415,
+            "rating_q025": 1226.9245038639663
+        },
+        "gemini-2.5-flash-image-preview (nano-banana)": {
+            "rating": 1155.6853198131603,
+            "rating_q975": 1158.7585696384808,
+            "rating_q025": 1152.6120699878397
+        },
+        "flux-2-flex": {
+            "rating": 1155.2958258897493,
+            "rating_q975": 1160.4489764758978,
+            "rating_q025": 1150.1426753036008
+        },
+        "hunyuan-image-3.0": {
+            "rating": 1153.11127677795,
+            "rating_q975": 1157.3507519010395,
+            "rating_q025": 1148.8718016548605
+        },
+        "flux-2-pro": {
+            "rating": 1150.2370356200827,
+            "rating_q975": 1155.1002559167705,
+            "rating_q025": 1145.3738153233949
+        },
+        "seedream-4.5": {
+            "rating": 1145.4257178745065,
+            "rating_q975": 1152.2031515558422,
+            "rating_q025": 1138.6482841931709
+        },
+        "seedream-4-2k": {
+            "rating": 1144.4149278499535,
+            "rating_q975": 1150.09966196465,
+            "rating_q025": 1138.730193735257
+        },
+        "imagen-4.0-ultra-generate-preview-06-06": {
+            "rating": 1143.9121441486727,
+            "rating_q975": 1147.703790028339,
+            "rating_q025": 1140.1204982690065
+        },
+        "imagen-4.0-generate-preview-06-06": {
+            "rating": 1132.2644432964457,
+            "rating_q975": 1136.093315045409,
+            "rating_q025": 1128.4355715474824
+        },
+        "wan2.5-t2i-preview": {
+            "rating": 1123.3023320873535,
+            "rating_q975": 1128.4658052066006,
+            "rating_q025": 1118.1388589681064
+        },
+        "seedream-4-high-res-fal": {
+            "rating": 1119.2785932857369,
+            "rating_q975": 1123.6324103570198,
+            "rating_q025": 1114.924776214454
+        },
+        "seedream-4-fal": {
+            "rating": 1117.66856402855,
+            "rating_q975": 1123.8827387787842,
+            "rating_q025": 1111.4543892783158
+        },
+        "gpt-image-1": {
+            "rating": 1116.4221027155836,
+            "rating_q975": 1119.7732100979176,
+            "rating_q025": 1113.0709953332496
+        },
+        "gpt-image-1-mini": {
+            "rating": 1101.1109705478905,
+            "rating_q975": 1105.9642111221865,
+            "rating_q025": 1096.2577299735945
+        },
+        "mai-image-1": {
+            "rating": 1092.516706418713,
+            "rating_q975": 1097.458814757001,
+            "rating_q025": 1087.5745980804252
+        },
+        "seedream-3": {
+            "rating": 1083.9094198305384,
+            "rating_q975": 1088.5959828674381,
+            "rating_q025": 1079.2228567936386
+        },
+        "flux-1-kontext-max": {
+            "rating": 1077.7511658203957,
+            "rating_q975": 1080.9118415957216,
+            "rating_q025": 1074.5904900450698
+        },
+        "qwen-image-prompt-extend": {
+            "rating": 1066.1662214941598,
+            "rating_q975": 1069.2939180519354,
+            "rating_q025": 1063.0385249363842
+        },
+        "flux-1-kontext-pro": {
+            "rating": 1063.3591171676578,
+            "rating_q975": 1066.501498459241,
+            "rating_q025": 1060.2167358760746
+        },
+        "imagen-3.0-generate-002": {
+            "rating": 1062.2858387949257,
+            "rating_q975": 1065.2135451587528,
+            "rating_q025": 1059.3581324310985
+        },
+        "qwen-image": {
+            "rating": 1059.7391889892301,
+            "rating_q975": 1061.8366882174894,
+            "rating_q025": 1057.6416897609708
+        },
+        "ideogram-v3-quality": {
+            "rating": 1054.0663777427894,
+            "rating_q975": 1058.457211789108,
+            "rating_q025": 1049.6755436964709
+        },
+        "photon": {
+            "rating": 1034.7260587988922,
+            "rating_q975": 1038.8316490969548,
+            "rating_q025": 1030.6204685008295
+        },
+        "recraft-v3": {
+            "rating": 1022.1818472002368,
+            "rating_q975": 1026.2847666861794,
+            "rating_q025": 1018.0789277142943
+        },
+        "lucid-origin": {
+            "rating": 1021.8694558573721,
+            "rating_q975": 1025.3135955367436,
+            "rating_q025": 1018.4253161780007
+        },
+        "ideogram-v2": {
+            "rating": 1020.5505515800353,
+            "rating_q975": 1024.3064335150957,
+            "rating_q025": 1016.7946696449749
+        },
+        "flux-1.1-pro": {
+            "rating": 1001.6428273869174,
+            "rating_q975": 1005.2858995896216,
+            "rating_q025": 997.9997551842131
+        },
+        "gemini-2.0-flash-preview-image-generation": {
+            "rating": 985.9622336778874,
+            "rating_q975": 989.1030672794707,
+            "rating_q025": 982.8214000763041
+        },
+        "dall-e-3": {
+            "rating": 978.0,
+            "rating_q975": 981.5163200306571,
+            "rating_q025": 974.4836799693429
+        },
+        "flux-1-kontext-dev": {
+            "rating": 959.489357501956,
+            "rating_q975": 962.806177865967,
+            "rating_q025": 956.1725371379449
+        },
+        "flux-1-dev-fp8": {
+            "rating": 958.9701446671226,
+            "rating_q975": 962.9462243281777,
+            "rating_q025": 954.9940650060674
+        },
+        "stable-diffusion-v35-large": {
+            "rating": 920.5853378884543,
+            "rating_q975": 925.3790679566018,
+            "rating_q025": 915.7916078203068
+        },
+        "bagel": {
+            "rating": 911.399615559771,
+            "rating_q975": 916.9521865173019,
+            "rating_q025": 905.84704460224
+        }
+    }
+}
