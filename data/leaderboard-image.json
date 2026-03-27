@@ -1,14 +1,14 @@
 {
     "full": {
         "gemini-3.1-flash-image-preview (nano-banana-2) [web-search]": {
-            "rating": 1261.0,
-            "rating_q975": 1268.0,
-            "rating_q025": 1254.0
+            "rating": 1265.0,
+            "rating_q975": 1271.0,
+            "rating_q025": 1259.0
         },
         "gpt-image-1.5-high-fidelity": {
-            "rating": 1243.0,
-            "rating_q975": 1247.0,
-            "rating_q025": 1239.0
+            "rating": 1244.0,
+            "rating_q975": 1248.0,
+            "rating_q025": 1240.0
         },
         "gemini-3-pro-image-preview-2k (nano-banana-pro)": {
             "rating": 1233.0,
@@ -21,14 +21,14 @@
             "rating_q025": 1227.0
         },
         "mai-image-2": {
-            "rating": 1191.0,
-            "rating_q975": 1197.0,
-            "rating_q025": 1185.0
+            "rating": 1190.0,
+            "rating_q975": 1196.0,
+            "rating_q025": 1184.0
         },
         "reve-v1.5": {
-            "rating": 1176.0,
-            "rating_q975": 1182.0,
-            "rating_q025": 1170.0
+            "rating": 1177.0,
+            "rating_q975": 1183.0,
+            "rating_q025": 1171.0
         },
         "grok-imagine-image": {
             "rating": 1173.0,
@@ -41,9 +41,9 @@
             "rating_q025": 1162.0
         },
         "grok-imagine-image-pro": {
-            "rating": 1161.0,
-            "rating_q975": 1165.0,
-            "rating_q025": 1157.0
+            "rating": 1162.0,
+            "rating_q975": 1166.0,
+            "rating_q025": 1158.0
         },
         "flux-2-flex": {
             "rating": 1158.0,
@@ -51,14 +51,14 @@
             "rating_q025": 1154.0
         },
         "flux-2-pro": {
-            "rating": 1157.0,
-            "rating_q975": 1161.0,
-            "rating_q025": 1153.0
+            "rating": 1158.0,
+            "rating_q975": 1162.0,
+            "rating_q025": 1154.0
         },
         "gemini-2.5-flash-image-preview (nano-banana)": {
-            "rating": 1154.0,
-            "rating_q975": 1157.0,
-            "rating_q025": 1151.0
+            "rating": 1155.0,
+            "rating_q975": 1158.0,
+            "rating_q025": 1152.0
         },
         "hunyuan-image-3.0": {
             "rating": 1151.0,
@@ -67,8 +67,8 @@
         },
         "flux-2-dev": {
             "rating": 1148.0,
-            "rating_q975": 1152.0,
-            "rating_q025": 1144.0
+            "rating_q975": 1153.0,
+            "rating_q025": 1143.0
         },
         "imagen-ultra-4.0-generate-001": {
             "rating": 1148.0,
@@ -91,14 +91,14 @@
             "rating_q025": 1132.0
         },
         "wan2.6-t2i": {
-            "rating": 1134.0,
-            "rating_q975": 1138.0,
-            "rating_q025": 1130.0
+            "rating": 1135.0,
+            "rating_q975": 1139.0,
+            "rating_q025": 1131.0
         },
         "imagen-4.0-generate-001": {
-            "rating": 1131.0,
-            "rating_q975": 1134.0,
-            "rating_q025": 1128.0
+            "rating": 1132.0,
+            "rating_q975": 1135.0,
+            "rating_q025": 1129.0
         },
         "wan2.5-t2i-preview": {
             "rating": 1117.0,
@@ -141,9 +141,9 @@
             "rating_q025": 1089.0
         },
         "seedream-3": {
-            "rating": 1082.0,
-            "rating_q975": 1087.0,
-            "rating_q025": 1077.0
+            "rating": 1083.0,
+            "rating_q975": 1088.0,
+            "rating_q025": 1078.0
         },
         "z-image-turbo": {
             "rating": 1077.0,
@@ -156,14 +156,14 @@
             "rating_q025": 1072.0
         },
         "flux-2-klein-9b": {
-            "rating": 1066.0,
-            "rating_q975": 1070.0,
-            "rating_q025": 1062.0
+            "rating": 1067.0,
+            "rating_q975": 1071.0,
+            "rating_q025": 1063.0
         },
         "qwen-image-prompt-extend": {
-            "rating": 1060.0,
-            "rating_q975": 1063.0,
-            "rating_q025": 1057.0
+            "rating": 1061.0,
+            "rating_q975": 1064.0,
+            "rating_q025": 1058.0
         },
         "flux-1-kontext-pro": {
             "rating": 1059.0,
@@ -195,15 +195,20 @@
             "rating_q975": 1038.0,
             "rating_q025": 1030.0
         },
+        "flux-2-klein-4b": {
+            "rating": 1021.0,
+            "rating_q975": 1025.0,
+            "rating_q025": 1017.0
+        },
         "recraft-v3": {
             "rating": 1021.0,
             "rating_q975": 1025.0,
             "rating_q025": 1017.0
         },
-        "flux-2-klein-4b": {
-            "rating": 1021.0,
-            "rating_q975": 1025.0,
-            "rating_q025": 1017.0
+        "runway-gen4": {
+            "rating": 1016.0,
+            "rating_q975": 1024.0,
+            "rating_q025": 1008.0
         },
         "flux-1.1-pro": {
             "rating": 1016.0,
@@ -231,9 +236,9 @@
             "rating_q025": 972.0
         },
         "flux-1-dev-fp8": {
-            "rating": 969.0,
-            "rating_q975": 973.0,
-            "rating_q025": 965.0
+            "rating": 970.0,
+            "rating_q975": 974.0,
+            "rating_q025": 966.0
         },
         "dall-e-3": {
             "rating": 968.0,
@@ -241,9 +246,9 @@
             "rating_q025": 964.0
         },
         "flux-1-kontext-dev": {
-            "rating": 940.0,
-            "rating_q975": 944.0,
-            "rating_q025": 936.0
+            "rating": 941.0,
+            "rating_q975": 945.0,
+            "rating_q025": 937.0
         },
         "stable-diffusion-v35-large": {
             "rating": 938.0,
