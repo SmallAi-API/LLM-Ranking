@@ -25,6 +25,11 @@
             "rating_q975": 1237.0,
             "rating_q025": 1227.0
         },
+        "grok-imagine-image-quality": {
+            "rating": 1223.0,
+            "rating_q975": 1229.0,
+            "rating_q025": 1217.0
+        },
         "uni-1.1-max": {
             "rating": 1193.0,
             "rating_q975": 1205.0,
