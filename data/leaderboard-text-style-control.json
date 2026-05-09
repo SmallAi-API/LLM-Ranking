@@ -200,7 +200,7 @@
             "rating_q975": 1513.0,
             "rating_q025": 1475.0
         },
-        "ernie-5.1-preview": {
+        "ernie-5.1": {
             "rating": 1493.0,
             "rating_q975": 1527.0,
             "rating_q025": 1459.0
@@ -1737,7 +1737,7 @@
             "rating_q975": 1527.0,
             "rating_q025": 1509.0
         },
-        "ernie-5.1-preview": {
+        "ernie-5.1": {
             "rating": 1517.0,
             "rating_q975": 1533.0,
             "rating_q025": 1501.0
@@ -3549,7 +3549,7 @@
             "rating_q975": 1447.0,
             "rating_q025": 1423.0
         },
-        "ernie-5.1-preview": {
+        "ernie-5.1": {
             "rating": 1435.0,
             "rating_q975": 1455.0,
             "rating_q025": 1415.0
@@ -5256,7 +5256,7 @@
             "rating_q975": 1486.0,
             "rating_q025": 1472.0
         },
-        "ernie-5.1-preview": {
+        "ernie-5.1": {
             "rating": 1479.0,
             "rating_q975": 1490.0,
             "rating_q025": 1468.0
@@ -7093,7 +7093,7 @@
             "rating_q975": 1505.0,
             "rating_q025": 1477.0
         },
-        "ernie-5.1-preview": {
+        "ernie-5.1": {
             "rating": 1491.0,
             "rating_q975": 1516.0,
             "rating_q025": 1466.0
@@ -8605,7 +8605,7 @@
             "rating_q975": 1511.0,
             "rating_q025": 1469.0
         },
-        "ernie-5.1-preview": {
+        "ernie-5.1": {
             "rating": 1489.0,
             "rating_q975": 1532.0,
             "rating_q025": 1446.0
@@ -9762,7 +9762,7 @@
             "rating_q975": 1482.0,
             "rating_q025": 1468.0
         },
-        "ernie-5.1-preview": {
+        "ernie-5.1": {
             "rating": 1474.0,
             "rating_q975": 1482.0,
             "rating_q025": 1466.0
@@ -12876,7 +12876,7 @@
             "rating_q975": 1497.0,
             "rating_q025": 1485.0
         },
-        "ernie-5.1-preview": {
+        "ernie-5.1": {
             "rating": 1491.0,
             "rating_q975": 1501.0,
             "rating_q025": 1481.0
@@ -14693,7 +14693,7 @@
             "rating_q975": 1495.0,
             "rating_q025": 1483.0
         },
-        "ernie-5.1-preview": {
+        "ernie-5.1": {
             "rating": 1489.0,
             "rating_q975": 1503.0,
             "rating_q025": 1475.0
@@ -16475,7 +16475,7 @@
             "rating_q975": 1463.0,
             "rating_q025": 1447.0
         },
-        "ernie-5.1-preview": {
+        "ernie-5.1": {
             "rating": 1455.0,
             "rating_q975": 1469.0,
             "rating_q025": 1441.0
@@ -18152,7 +18152,7 @@
             "rating_q975": 1508.0,
             "rating_q025": 1480.0
         },
-        "ernie-5.1-preview": {
+        "ernie-5.1": {
             "rating": 1492.0,
             "rating_q975": 1510.0,
             "rating_q025": 1474.0
@@ -20059,7 +20059,7 @@
             "rating_q975": 1453.0,
             "rating_q025": 1409.0
         },
-        "ernie-5.1-preview": {
+        "ernie-5.1": {
             "rating": 1430.0,
             "rating_q975": 1448.0,
             "rating_q025": 1412.0
@@ -21711,7 +21711,7 @@
             "rating_q975": 1508.0,
             "rating_q025": 1476.0
         },
-        "ernie-5.1-preview": {
+        "ernie-5.1": {
             "rating": 1492.0,
             "rating_q975": 1521.0,
             "rating_q025": 1463.0
@@ -23423,7 +23423,7 @@
             "rating_q975": 1492.0,
             "rating_q025": 1478.0
         },
-        "ernie-5.1-preview": {
+        "ernie-5.1": {
             "rating": 1485.0,
             "rating_q975": 1504.0,
             "rating_q025": 1466.0
@@ -25115,7 +25115,7 @@
             "rating_q975": 1545.0,
             "rating_q025": 1483.0
         },
-        "ernie-5.1-preview": {
+        "ernie-5.1": {
             "rating": 1513.0,
             "rating_q975": 1547.0,
             "rating_q025": 1479.0
@@ -26882,7 +26882,7 @@
             "rating_q975": 1501.0,
             "rating_q025": 1475.0
         },
-        "ernie-5.1-preview": {
+        "ernie-5.1": {
             "rating": 1488.0,
             "rating_q975": 1518.0,
             "rating_q025": 1458.0
@@ -28454,7 +28454,7 @@
             "rating_q975": 1525.0,
             "rating_q025": 1513.0
         },
-        "ernie-5.1-preview": {
+        "ernie-5.1": {
             "rating": 1518.0,
             "rating_q975": 1531.0,
             "rating_q025": 1505.0
@@ -30401,7 +30401,7 @@
             "rating_q975": 1443.0,
             "rating_q025": 1429.0
         },
-        "ernie-5.1-preview": {
+        "ernie-5.1": {
             "rating": 1435.0,
             "rating_q975": 1451.0,
             "rating_q025": 1419.0
@@ -34372,7 +34372,7 @@
             "rating_q975": 1475.0,
             "rating_q025": 1459.0
         },
-        "ernie-5.1-preview": {
+        "ernie-5.1": {
             "rating": 1467.0,
             "rating_q975": 1482.0,
             "rating_q025": 1452.0
@@ -35939,7 +35939,7 @@
             "rating_q975": 1524.0,
             "rating_q025": 1466.0
         },
-        "ernie-5.1-preview": {
+        "ernie-5.1": {
             "rating": 1494.0,
             "rating_q975": 1523.0,
             "rating_q025": 1465.0
@@ -37701,7 +37701,7 @@
             "rating_q975": 1495.0,
             "rating_q025": 1479.0
         },
-        "ernie-5.1-preview": {
+        "ernie-5.1": {
             "rating": 1485.0,
             "rating_q975": 1504.0,
             "rating_q025": 1466.0
@@ -42292,7 +42292,7 @@
             "rating_q975": 1497.0,
             "rating_q025": 1485.0
         },
-        "ernie-5.1-preview": {
+        "ernie-5.1": {
             "rating": 1490.0,
             "rating_q975": 1502.0,
             "rating_q025": 1478.0
@@ -44094,7 +44094,7 @@
             "rating_q975": 1494.0,
             "rating_q025": 1470.0
         },
-        "ernie-5.1-preview": {
+        "ernie-5.1": {
             "rating": 1476.0,
             "rating_q975": 1499.0,
             "rating_q025": 1453.0
@@ -45771,7 +45771,7 @@
             "rating_q975": 1485.0,
             "rating_q025": 1427.0
         },
-        "ernie-5.1-preview": {
+        "ernie-5.1": {
             "rating": 1453.0,
             "rating_q975": 1493.0,
             "rating_q025": 1413.0
