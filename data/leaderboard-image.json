@@ -1,19 +1,24 @@
 {
     "full": {
         "gpt-image-2 (medium)": {
-            "rating": 1389.0,
-            "rating_q975": 1396.0,
+            "rating": 1388.0,
+            "rating_q975": 1394.0,
             "rating_q025": 1382.0
         },
         "gemini-3.1-flash-image-preview (nano-banana-2) [web-search]": {
-            "rating": 1270.0,
-            "rating_q975": 1275.0,
-            "rating_q025": 1265.0
+            "rating": 1271.0,
+            "rating_q975": 1276.0,
+            "rating_q025": 1266.0
+        },
+        "mai-image-2.5-preview": {
+            "rating": 1254.0,
+            "rating_q975": 1262.0,
+            "rating_q025": 1246.0
         },
         "gemini-3-pro-image-preview-2k (nano-banana-pro)": {
-            "rating": 1243.0,
-            "rating_q975": 1247.0,
-            "rating_q025": 1239.0
+            "rating": 1245.0,
+            "rating_q975": 1249.0,
+            "rating_q025": 1241.0
         },
         "gpt-image-1.5-high-fidelity": {
             "rating": 1241.0,
@@ -46,9 +51,9 @@
             "rating_q025": 1169.0
         },
         "grok-imagine-image": {
-            "rating": 1173.0,
-            "rating_q975": 1176.0,
-            "rating_q025": 1170.0
+            "rating": 1174.0,
+            "rating_q975": 1177.0,
+            "rating_q025": 1171.0
         },
         "recraft-v4.1-utility-pro": {
             "rating": 1169.0,
@@ -61,29 +66,29 @@
             "rating_q025": 1160.0
         },
         "flux-2-max": {
-            "rating": 1164.0,
-            "rating_q975": 1168.0,
-            "rating_q025": 1160.0
+            "rating": 1163.0,
+            "rating_q975": 1167.0,
+            "rating_q025": 1159.0
         },
         "grok-imagine-image-pro": {
-            "rating": 1161.0,
-            "rating_q975": 1165.0,
-            "rating_q025": 1157.0
+            "rating": 1162.0,
+            "rating_q975": 1166.0,
+            "rating_q025": 1158.0
         },
         "reve-v1.5": {
-            "rating": 1157.0,
-            "rating_q975": 1163.0,
-            "rating_q025": 1151.0
+            "rating": 1155.0,
+            "rating_q975": 1161.0,
+            "rating_q025": 1149.0
         },
         "flux-2-pro": {
-            "rating": 1156.0,
-            "rating_q975": 1159.0,
-            "rating_q025": 1153.0
+            "rating": 1155.0,
+            "rating_q975": 1158.0,
+            "rating_q025": 1152.0
         },
         "flux-2-flex": {
-            "rating": 1155.0,
-            "rating_q975": 1159.0,
-            "rating_q025": 1151.0
+            "rating": 1154.0,
+            "rating_q975": 1158.0,
+            "rating_q025": 1150.0
         },
         "gemini-2.5-flash-image-preview (nano-banana)": {
             "rating": 1152.0,
@@ -106,14 +111,14 @@
             "rating_q025": 1144.0
         },
         "seedream-4.5": {
-            "rating": 1144.0,
-            "rating_q975": 1147.0,
-            "rating_q025": 1141.0
+            "rating": 1143.0,
+            "rating_q975": 1146.0,
+            "rating_q025": 1140.0
         },
         "seedream-4-2k": {
-            "rating": 1140.0,
-            "rating_q975": 1147.0,
-            "rating_q025": 1133.0
+            "rating": 1141.0,
+            "rating_q975": 1148.0,
+            "rating_q025": 1134.0
         },
         "wan2.6-t2i": {
             "rating": 1134.0,
@@ -121,9 +126,9 @@
             "rating_q025": 1131.0
         },
         "qwen-image-2512": {
-            "rating": 1131.0,
-            "rating_q975": 1135.0,
-            "rating_q025": 1127.0
+            "rating": 1130.0,
+            "rating_q975": 1134.0,
+            "rating_q025": 1126.0
         },
         "recraft-v4.1-pro": {
             "rating": 1130.0,
@@ -136,14 +141,14 @@
             "rating_q025": 1127.0
         },
         "seedream-5.0-lite": {
-            "rating": 1125.0,
-            "rating_q975": 1129.0,
-            "rating_q025": 1121.0
+            "rating": 1127.0,
+            "rating_q975": 1131.0,
+            "rating_q025": 1123.0
         },
         "hidream-o1-image": {
             "rating": 1121.0,
-            "rating_q975": 1130.0,
-            "rating_q025": 1112.0
+            "rating_q975": 1129.0,
+            "rating_q025": 1113.0
         },
         "seedream-4-fal": {
             "rating": 1117.0,
@@ -156,8 +161,8 @@
             "rating_q025": 1113.0
         },
         "qwen-image-2.0-2026-03-03": {
-            "rating": 1116.0,
-            "rating_q975": 1121.0,
+            "rating": 1115.0,
+            "rating_q975": 1119.0,
             "rating_q025": 1111.0
         },
         "gpt-image-1": {
@@ -171,9 +176,9 @@
             "rating_q025": 1110.0
         },
         "recraft-v4": {
-            "rating": 1109.0,
-            "rating_q975": 1113.0,
-            "rating_q025": 1105.0
+            "rating": 1110.0,
+            "rating_q975": 1114.0,
+            "rating_q025": 1106.0
         },
         "gpt-image-1-mini": {
             "rating": 1108.0,
@@ -181,9 +186,9 @@
             "rating_q025": 1105.0
         },
         "wan2.7-image-pro": {
-            "rating": 1104.0,
-            "rating_q975": 1109.0,
-            "rating_q025": 1099.0
+            "rating": 1103.0,
+            "rating_q975": 1108.0,
+            "rating_q025": 1098.0
         },
         "wan2.7-image": {
             "rating": 1099.0,
@@ -196,9 +201,9 @@
             "rating_q025": 1089.0
         },
         "z-image-turbo": {
-            "rating": 1085.0,
-            "rating_q975": 1091.0,
-            "rating_q025": 1079.0
+            "rating": 1084.0,
+            "rating_q975": 1090.0,
+            "rating_q025": 1078.0
         },
         "seedream-3": {
             "rating": 1082.0,
@@ -256,9 +261,9 @@
             "rating_q025": 1026.0
         },
         "runway-gen4": {
-            "rating": 1026.0,
-            "rating_q975": 1031.0,
-            "rating_q025": 1021.0
+            "rating": 1027.0,
+            "rating_q975": 1032.0,
+            "rating_q025": 1022.0
         },
         "recraft-v3": {
             "rating": 1021.0,
@@ -277,8 +282,8 @@
         },
         "ideogram-v2": {
             "rating": 1013.0,
-            "rating_q975": 1016.0,
-            "rating_q025": 1010.0
+            "rating_q975": 1017.0,
+            "rating_q025": 1009.0
         },
         "glm-image": {
             "rating": 1011.0,
