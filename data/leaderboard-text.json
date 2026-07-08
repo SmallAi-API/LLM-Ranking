@@ -225,7 +225,7 @@
             "rating_q975": 1488.0,
             "rating_q025": 1466.0
         },
-        "claude-sonnet-5-thinking": {
+        "claude-sonnet-5-high": {
             "rating": 1477.0,
             "rating_q975": 1514.0,
             "rating_q025": 1440.0
@@ -1857,7 +1857,7 @@
             "rating_q975": 1489.0,
             "rating_q025": 1469.0
         },
-        "claude-sonnet-5-thinking": {
+        "claude-sonnet-5-high": {
             "rating": 1478.0,
             "rating_q975": 1496.0,
             "rating_q025": 1460.0
@@ -3759,7 +3759,7 @@
             "rating_q975": 1424.0,
             "rating_q025": 1406.0
         },
-        "claude-sonnet-5-thinking": {
+        "claude-sonnet-5-high": {
             "rating": 1414.0,
             "rating_q975": 1436.0,
             "rating_q025": 1392.0
@@ -5546,7 +5546,7 @@
             "rating_q975": 1456.0,
             "rating_q025": 1448.0
         },
-        "claude-sonnet-5-thinking": {
+        "claude-sonnet-5-high": {
             "rating": 1451.0,
             "rating_q975": 1464.0,
             "rating_q025": 1438.0
@@ -7258,7 +7258,7 @@
             "rating_q975": 1517.0,
             "rating_q025": 1487.0
         },
-        "claude-sonnet-5-thinking": {
+        "claude-sonnet-5-high": {
             "rating": 1502.0,
             "rating_q975": 1532.0,
             "rating_q025": 1472.0
@@ -10252,7 +10252,7 @@
             "rating_q975": 1454.0,
             "rating_q025": 1438.0
         },
-        "claude-sonnet-5-thinking": {
+        "claude-sonnet-5-high": {
             "rating": 1445.0,
             "rating_q975": 1454.0,
             "rating_q025": 1436.0
@@ -13441,7 +13441,7 @@
             "rating_q975": 1471.0,
             "rating_q025": 1459.0
         },
-        "claude-sonnet-5-thinking": {
+        "claude-sonnet-5-high": {
             "rating": 1464.0,
             "rating_q975": 1475.0,
             "rating_q025": 1453.0
@@ -15293,7 +15293,7 @@
             "rating_q975": 1477.0,
             "rating_q025": 1463.0
         },
-        "claude-sonnet-5-thinking": {
+        "claude-sonnet-5-high": {
             "rating": 1466.0,
             "rating_q975": 1482.0,
             "rating_q025": 1450.0
@@ -17130,7 +17130,7 @@
             "rating_q975": 1457.0,
             "rating_q025": 1439.0
         },
-        "claude-sonnet-5-thinking": {
+        "claude-sonnet-5-high": {
             "rating": 1447.0,
             "rating_q975": 1463.0,
             "rating_q025": 1431.0
@@ -18972,7 +18972,7 @@
             "rating_q975": 1454.0,
             "rating_q025": 1438.0
         },
-        "claude-sonnet-5-thinking": {
+        "claude-sonnet-5-high": {
             "rating": 1446.0,
             "rating_q975": 1466.0,
             "rating_q025": 1426.0
@@ -20944,7 +20944,7 @@
             "rating_q975": 1415.0,
             "rating_q025": 1391.0
         },
-        "claude-sonnet-5-thinking": {
+        "claude-sonnet-5-high": {
             "rating": 1403.0,
             "rating_q975": 1422.0,
             "rating_q025": 1384.0
@@ -22781,7 +22781,7 @@
             "rating_q975": 1448.0,
             "rating_q025": 1432.0
         },
-        "claude-sonnet-5-thinking": {
+        "claude-sonnet-5-high": {
             "rating": 1440.0,
             "rating_q975": 1470.0,
             "rating_q025": 1410.0
@@ -24308,7 +24308,7 @@
             "rating_q975": 1481.0,
             "rating_q025": 1465.0
         },
-        "claude-sonnet-5-thinking": {
+        "claude-sonnet-5-high": {
             "rating": 1473.0,
             "rating_q975": 1496.0,
             "rating_q025": 1450.0
@@ -26100,7 +26100,7 @@
             "rating_q975": 1497.0,
             "rating_q025": 1473.0
         },
-        "claude-sonnet-5-thinking": {
+        "claude-sonnet-5-high": {
             "rating": 1484.0,
             "rating_q975": 1523.0,
             "rating_q025": 1445.0
@@ -28302,7 +28302,7 @@
             "rating_q975": 1442.0,
             "rating_q025": 1392.0
         },
-        "claude-sonnet-5-thinking": {
+        "claude-sonnet-5-high": {
             "rating": 1416.0,
             "rating_q975": 1451.0,
             "rating_q025": 1381.0
@@ -29634,7 +29634,7 @@
             "rating_q975": 1483.0,
             "rating_q025": 1471.0
         },
-        "claude-sonnet-5-thinking": {
+        "claude-sonnet-5-high": {
             "rating": 1475.0,
             "rating_q975": 1489.0,
             "rating_q025": 1461.0
@@ -31496,7 +31496,7 @@
             "rating_q975": 1447.0,
             "rating_q025": 1437.0
         },
-        "claude-sonnet-5-thinking": {
+        "claude-sonnet-5-high": {
             "rating": 1439.0,
             "rating_q975": 1457.0,
             "rating_q025": 1421.0
@@ -35747,7 +35747,7 @@
             "rating_q975": 1471.0,
             "rating_q025": 1459.0
         },
-        "claude-sonnet-5-thinking": {
+        "claude-sonnet-5-high": {
             "rating": 1464.0,
             "rating_q975": 1478.0,
             "rating_q025": 1450.0
@@ -37524,7 +37524,7 @@
             "rating_q975": 1469.0,
             "rating_q025": 1445.0
         },
-        "claude-sonnet-5-thinking": {
+        "claude-sonnet-5-high": {
             "rating": 1455.0,
             "rating_q975": 1497.0,
             "rating_q025": 1413.0
@@ -39366,7 +39366,7 @@
             "rating_q975": 1458.0,
             "rating_q025": 1440.0
         },
-        "claude-sonnet-5-thinking": {
+        "claude-sonnet-5-high": {
             "rating": 1449.0,
             "rating_q975": 1471.0,
             "rating_q025": 1427.0
@@ -43997,7 +43997,7 @@
             "rating_q975": 1448.0,
             "rating_q025": 1436.0
         },
-        "claude-sonnet-5-thinking": {
+        "claude-sonnet-5-high": {
             "rating": 1442.0,
             "rating_q975": 1454.0,
             "rating_q025": 1430.0
@@ -45829,7 +45829,7 @@
             "rating_q975": 1454.0,
             "rating_q025": 1440.0
         },
-        "claude-sonnet-5-thinking": {
+        "claude-sonnet-5-high": {
             "rating": 1446.0,
             "rating_q975": 1475.0,
             "rating_q025": 1417.0
