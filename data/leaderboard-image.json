@@ -5,6 +5,11 @@
             "rating_q975": 1390.0,
             "rating_q025": 1380.0
         },
+        "muse-image": {
+            "rating": 1280.0,
+            "rating_q975": 1287.0,
+            "rating_q025": 1273.0
+        },
         "reve-2.0": {
             "rating": 1271.0,
             "rating_q975": 1278.0,
